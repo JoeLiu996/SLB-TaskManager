@@ -55,3 +55,6 @@ warning: test.py can only be run if no tasks are created in the database.
     ```
     python tests.py
     ```
+
+### preview
+![Animation](./animation.gif)
